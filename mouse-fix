@@ -10,7 +10,7 @@ devid = 10
 if len(sys.argv) > 1:
     devid = sys.argv[1]
 
-speed = "-0.9"
+speed = "-1.0"
 if len(sys.argv) > 2:
     speed = sys.argv[2]
 
